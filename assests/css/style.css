@@ -1,0 +1,13 @@
+h1 {
+  font-size: 30px;
+}
+
+body {
+  text-align: center;
+}
+
+.crystal-image {
+  width: 250px;
+  height: 250px;
+  text-align: center;
+}
