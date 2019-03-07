@@ -45,7 +45,7 @@ $(document).on("click", ".crystal-image", function() {
   } else if (counter >= randomTarget) {
     lost++;
     console.log(lost);
-    $("#lost").html("Lost:" + lost);
+    $("#lost").html(" Lost: " + lost);
 
     resetGame();
   }

@@ -1,13 +1,49 @@
 h1 {
-  font-size: 30px;
+  font-size: 50px;
 }
 
 body {
   text-align: center;
+  background-image: url(black_mamba.png);
+  color: magenta;
+  font-family: "ZCOOL QingKe HuangYou", cursive;
 }
 
 .crystal-image {
   width: 250px;
   height: 250px;
   text-align: center;
+}
+
+#crystals {
+  margin-top: 25px;
+}
+
+.target {
+  margin-top: 25px;
+  font-size: 40px;
+  color: red;
+}
+
+#instruction {
+  text-align: left;
+  margin-top: 20px;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+#user {
+  font-size: 40px;
+  margin-top: 10px;
+  color: yellowgreen;
+}
+#win {
+  font-size: 30px;
+  margin-top: 10px;
+  color: blanchedalmond;
+}
+#lost {
+  font-size: 30px;
+  margin-top: 10px;
+  color: blanchedalmond;
 }
